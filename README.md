@@ -8,7 +8,7 @@ If you want to run this locally, create the conda environment using the spec-fil
 ```
 conda create --name cloud101 --file spec-file.txt
 conda activate cloud101
-jupyter notebook
+jupyter  lab
 ```
 
 
